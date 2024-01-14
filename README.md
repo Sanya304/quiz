@@ -1,5 +1,6 @@
 # quiz
-
+In this quiz app  a user can respond to the questions which are hard coded in the application  in which each question in given a time of 10 seconds and after submiting the question the user will get to know about its accuracy with the red and green color appearing in the option clicked.
+This can also be used in mobile as it is responsive
 ![Screenshot (34)](https://github.com/Sanya304/quiz/assets/132752211/1d934e5f-3d8c-4099-aca2-21f2fe0552eb)
 ![Screenshot (35)](https://github.com/Sanya304/quiz/assets/132752211/9d590364-8d4a-4a25-a7a0-6f3ad5072b5a)
 ![Screenshot (36)](https://github.com/Sanya304/quiz/assets/132752211/e35b8861-ee98-4b46-a5ef-21152097ff82)
